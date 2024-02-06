@@ -1,0 +1,27 @@
+{
+  "name": "mern-stack-userapp",
+  "version": "1.0.0",
+  "description": "Mern stack User App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llcain/Mern-Stack-UserApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llcain/Mern-Stack-UserApp/issues"
+  },
+  "homepage": "https://github.com/llcain/Mern-Stack-UserApp#readme",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
